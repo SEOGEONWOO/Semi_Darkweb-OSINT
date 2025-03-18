@@ -1,0 +1,7 @@
+*.html
+*.json
+*.png
+__pycache__
+test.py
+temp.py
+/OUT/
